@@ -7,7 +7,7 @@ if(job === "yes"  && salary > 50000){
     console.log("You can buy gaming PC 😎")
 }
 else if(job === "yes" || salary > 50000){
-    console.log("You can now buy Laptop")
+    console.log("You can buy Laptop")
 }
 else{
     console.log("Muri ka 🍿")

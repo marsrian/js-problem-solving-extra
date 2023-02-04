@@ -1,8 +1,9 @@
 /**-------------Problem:03--------------------- */
+/**--------Topics: Total Book Page-------- */
 
 function paperRequirements(firstBookQuantity, secondBookQuantity, thirdBookQuantity){
     const firstBookPage = 100;
-    const secondBookPage = 250;
+    const secondBookPage = 200;
     const thirdBookPage = 300;
 
     const firstBookTotalPage = firstBookPage * firstBookQuantity;

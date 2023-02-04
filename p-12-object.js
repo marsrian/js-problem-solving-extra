@@ -1,6 +1,5 @@
 /**-------Topics: Object details----------*/
 
-
 const componentsPC = {
     processor: "AMD Ryzen 5 5600G Processor with Radeon Graphics",
     motherboard: "Asus TUF GAMING B550M-E AMD AM4 mATX Motherboard",
