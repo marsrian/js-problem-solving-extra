@@ -5,11 +5,11 @@ function positiveNumbers(numbers){
     let positiveValue = [];
     for(let i = 0; i < numbers.length; i++){
         const element = numbers[i];
-        if(element < 0){
-            break;
-        }
-        else{
+        if(element >= 0){
             positiveValue.push(element);
+        }
+        else if(element < 0){
+            break;
         }
     }
     return positiveValue;
