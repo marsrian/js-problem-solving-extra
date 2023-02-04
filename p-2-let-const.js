@@ -1,3 +1,5 @@
+/**-------Topics: let vs const----------*/
+
 let number1 = 10;
 number1 = 22; // ✔
 console.log(number1); // ✔

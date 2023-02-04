@@ -1,3 +1,5 @@
+/**-------Topics: typeof variable----------*/
+
 let str = "Mars Rian"; 
 let num1 = 55;
 let isBoy = true;

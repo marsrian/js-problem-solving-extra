@@ -1,4 +1,4 @@
-/**----------   --Problem:05-------------- */
+/**----------------Problem:05-------------- */
 /**--------Topics: Positive Number-------- */
 
 function positiveNumbers(numbers){
